@@ -24,10 +24,10 @@ Enfin, devront apparaître en footer ses coordonnées, les mentions obligatoires
 
 La mise en place des wireframes peut être consultée par le biais de 2 fichiers sous format .pdf présents dans ce repo : 
 
-- l'un concerne une capture d'écran globale du projet avec l'outil en ligne <a href="https://whimsical.com/wireframes">Whimsical Wireframes</a>
+- l'un concerne une capture d'écran globale du projet avec l'outil en ligne <a href="https://whimsical.com/wireframes" target="_blank">Whimsical Wireframes</a>
 - le second concerne un fichier à pages multiples de chacun des frames du projet, page par page.
 
-Il est également possible de visionner les wireframes en suivant le lien direct du projet vers whimsical <a href="https://whimsical.com/maricris-website-GFw7tA9P5NE3cpXp2r8Myq">ici</a> avec le mot de passe suivant : `TP20-HOUZET`.
+Il est également possible de visionner les wireframes en suivant le lien direct du projet vers whimsical <a href="https://whimsical.com/maricris-website-GFw7tA9P5NE3cpXp2r8Myq" target="_blank">ici</a> avec le mot de passe suivant : `TP20-HOUZET`.
   
   
   
